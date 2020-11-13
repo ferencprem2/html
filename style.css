@@ -97,3 +97,21 @@ color: white;
 .tems a{
     line-height: 195%;
 }
+
+.enc{
+    background-image: url(kepek/enc.jpg);
+    height: 929px;
+    margin: 0%;
+    background-size: cover;
+    background-position-x: center     ;
+    background-position-y: center;
+    padding: 20px;
+}
+
+.enc h1{
+    color: white;
+}
+
+.enc a{
+    line-height: 185%;
+}
