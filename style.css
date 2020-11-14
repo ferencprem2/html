@@ -6,7 +6,7 @@ body{
 
 .hero {
     width: 97,5%;
-    height: 78vh;
+    height: 77vh;
     background-image: url("kepek/live.jpg");
     background-size: cover;
     background-position-x: center;
@@ -18,8 +18,11 @@ body{
     margin: 0;
     color: white;
     font-size: 4em;
+    font-family: 'Libre Franklin', sans-serif;
 }
-
+table{
+    padding-top: 2px;
+}
 
 table tr td img{
     width: 100%;
@@ -114,4 +117,103 @@ color: white;
 
 .enc a{
     line-height: 185%;
+}
+
+.rel{
+    background-image: url(kepek/slim.jpg);
+    height: 929px;
+    margin: 0%;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    padding: 20px;
+
+}
+
+.rel h1{
+    color: red;
+}
+
+.rel{
+line-height: 195%;
+}
+
+.rec{
+   background-image: url(kepek/eg.png);
+   height: 929px;
+   margin: 0%;
+   background-size: cover;
+   background-position-x: center;
+   background-position-y: center;
+   padding: 20px;
+}
+.rec h1{
+color: red;
+}
+.rec a{
+    line-height: 135%;
+}
+.tmmlp{
+background-image: url(kepek/emh.jpg);
+    height: 929px;
+    margin: 0%;
+   background-size: cover;
+   background-position-x: center;
+   background-position-y: center;
+   padding: 20px; 
+}
+.tmmlp h1{
+color: #2cffdc;
+}
+.tmmlp a{
+    line-height: 100%;
+font-size: 18px;
+}
+.rev{
+    background-image:url(kepek/rev.jpg);
+    height: 929px;
+    margin: 0%;
+   background-size: cover;
+   background-position-x: center;
+   background-position-y: center;
+   padding: 20px; 
+}
+.rev h1{
+    color: white;
+}
+.rev a{
+    line-height: 170%;
+}
+.kam{
+    background-image:url(kepek/plane.jpg);
+    height: 929px;
+    margin: 0%;
+   background-size: cover;
+   background-position-x: center;
+   background-position-y: center;
+   padding: 20px; 
+}
+.kam h1{
+    color: #720772;
+}
+
+
+.kam a{
+    line-height: 310%;
+}
+
+.murd{
+    background-image:url(kepek/marshall.jpg);
+    height: 929px;
+    margin: 0%;
+   background-size: cover;
+   background-position-x: below 500px;
+   background-position-y: center;
+   padding: 20px; 
+}
+.murd h1{
+color: red;
+}
+.murd a{
+    line-height: 170%;
 }
