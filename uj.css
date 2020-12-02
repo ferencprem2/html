@@ -1,0 +1,51 @@
+
+li{
+list-style-type: none;
+}
+
+ul{
+    padding:0;
+}
+
+.koncertek li{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family:  'Libre Franklin', sans-serif;;
+    font-size: 30px;
+}
+.koncertek li b {
+    font-size: 20px;
+}
+
+.cim {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-family:  'Libre Franklin', sans-serif;;
+}
+
+.termek{
+    border: 1px solid black;
+    width: 200px;
+    
+    margin: 20px;
+    float: left;
+    padding-top: 10px;
+}
+.termek img{
+    width: 100%;
+}
+.termek h2, .termek h3{
+    text-align: center;
+}
+.termek button{
+    width: 100%;
+    background-color: black;
+    border: none;
+    color: white;
+    height: 50px;
+}
+h2, h3{
+    color: white;
+}
